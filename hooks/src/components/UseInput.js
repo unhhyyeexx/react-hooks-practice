@@ -29,6 +29,7 @@ function UseInput() {
         placeholder="Name"
         {...name}
       ></input>
+      <hr></hr>
     </div>
   )
 }
